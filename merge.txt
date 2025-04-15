@@ -1,5 +1,7 @@
 Dev Bharti
 Amity University Bengaluru
 B.Tech CSE
-Specialization in AI anf ML
+Specialization in AI and ML
 2nd Semester
+Age-18
+Source Code Management
